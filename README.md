@@ -1,2 +1,2 @@
 # jenkin-integration
-Demo on jenkin-github integration
+Demo on jenkin-github integration using webhook
